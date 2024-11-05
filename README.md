@@ -1,7 +1,7 @@
 ## Olá! Bem vindo ao meu GitHub. 🤝
 
 
-😄👋🤓 Me chamo Wellington, tenho 3 anos de experiênca com testes automatizados e sou Pós Graduado em Qualidade de Software.
+😄👋🤓 Me chamo Wellington, tenho 6 anos de experiênca com testes automatizados e sou Pós Graduado em Qualidade de Software.
 
 🌱⚡ Realizo meus testes através do VS Code, utilizando o padrão PageObjects e tenho conhecimento nos frameworks Cypress, Selenium, Cucumber e JUnit, e atualmente estudando  Appium.
 Para escrever meus cenarios de teste utilizo o TDD e BDD e para pratica de desenvolvimento de software no Pipeline o CI/CD. 
